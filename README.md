@@ -1,9 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://miro.medium.com/v2/resize:fit:1400/1*WqMpsn9c8JsbbIxIRr50ug.gif))](https://github.com/NaderDweik)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif)](https://github.com/NaderDweik)
 
 <h1 align="center">Hi 👋, I'm Nader Dweik</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naderdweik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -83,7 +83,7 @@ Check out the project [here](https://github.com/NaderDweik/Cloud-Drive-Applicati
 ---
 
 #### 🖥️ Fun GIF
-<img alt="Coding GIF" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding GIF" width="100%" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 ---
 
