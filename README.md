@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nader Dweik</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" />
+<img align="right" alt="Coding" width="400" style="border: 3px solid #000; border-radius: 10px;" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naderdweik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -63,9 +63,9 @@ Check out the project [here](https://github.com/NaderDweik/Cloud-Drive-Applicati
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naderdweik&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderdweik&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderdweik&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naderdweik&show_icons=true&theme=radical" style="border: 3px solid #000; border-radius: 10px;" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderdweik&theme=radical" style="border: 3px solid #000; border-radius: 10px;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderdweik&layout=compact&theme=radical" style="border: 3px solid #000; border-radius: 10px;" alt="Top Languages" />
 </p>
 
 ---
@@ -79,11 +79,6 @@ Check out the project [here](https://github.com/NaderDweik/Cloud-Drive-Applicati
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-#### 🖥️ Fun GIF
-<img alt="Coding GIF" width="100%" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 ---
 
