@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nader Dweik</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" style="border: 3px solid #000; border-radius: 20px;" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" />
+<img align="right" alt="Coding" width="400" style="border: 3px solid #000; border-radius: 50%;" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naderdweik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
