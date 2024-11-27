@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **React, Node.js, and Express**.
 - 💬 Ask me about **coding, web development, and project ideas**.
 - 📫 Reach me at **nderdweik@gmail.com**.
-- ⚡ Fun fact: **I hate reading books but love coding challenges!**
 - 🎯 Currently working on: **[Cloud-Drive-Application](https://github.com/NaderDweik/Cloud-Drive-Application)**, a feature-packed cloud storage solution.
 
 ---
