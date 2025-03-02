@@ -15,26 +15,6 @@
 - 💬 Ask me about **coding, web development, and project ideas**.
 - 📫 Reach me at **nderdweik@gmail.com**.
 - 🎯 Currently working on: **[Cloud-Drive-Application](https://github.com/NaderDweik/Cloud-Drive-Application)**, a feature-packed cloud storage solution.
-
----
-
-### 📂 Featured Project: [Cloud-Drive-Application](https://github.com/NaderDweik/Cloud-Drive-Application)
-
-**Description:**
-A secure and user-friendly cloud storage application designed to manage, upload, and share files seamlessly. 
-
-**Key Features:**
-- 🔒 **Secure File Storage:** Protect files with authentication.
-- 📤 **File Upload/Download:** Fast and efficient handling of large files.
-- 🌐 **Responsive Design:** Optimized for all devices.
-
-**Technologies Used:**
-- Frontend: **React**
-- Backend: **Node.js** and **Express**
-- Database: **MongoDB**
-
-Check out the project [here](https://github.com/NaderDweik/Cloud-Drive-Application)! 🚀
-
 ---
 
 ### 🛠️ Skills & Tools
