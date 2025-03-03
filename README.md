@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif)](https://github.com/NaderDweik)
 
 <h1 align="center">Hi 👋, I'm Nader Dweik</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center"> Trying to become a Full Stack Developer( Hopefully Plan works !)</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=naderdweik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
