@@ -58,5 +58,3 @@
 </p>
 
 ---
-
-#### ✨ Thank you for visiting my profile! Let's create something amazing together! ✨
