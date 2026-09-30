@@ -24,7 +24,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif" alt="coding gif" />
+<!-- <img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif" alt="coding gif" /> -->
 
 ```js
 const nader = {
