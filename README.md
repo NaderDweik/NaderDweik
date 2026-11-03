@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="dark_mode.svg" width="100%" alt="naderdweik" />
-
+   <img src="hero.svg" width="100%" alt="Nader Dweik" />
 <img src="terminal.svg" width="100%" alt="man naderdweik" />
 
 <a href="https://giving-estate.com"><img src="giving-spirit.svg" width="49%" alt="giving spirit" /></a>
