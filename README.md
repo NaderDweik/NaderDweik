@@ -1,10 +1,9 @@
-<!-- ===================== HEADER ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="naderdweik's GitHub profile" src="dark_mode.svg" />
-</picture>
+<!-- ===================== ASCII PROFILE CARD ===================== -->
+<div align="center">
+  <img src="dark_mode.svg" width="100%" alt="naderdweik's GitHub profile" />
+</div>
 
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:0E75B6&height=180&section=header&text=Nader%20Dweik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20in%20the%20making&descAlignY=52&descSize=18" width="100%" alt="header" />
@@ -30,8 +29,6 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍💻 About Me
 
-<!-- <img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*e-CnQ3XcOSjznpnBhMXQKg.gif" alt="coding gif" /> -->
-
 ```js
 const nader = {
   role: "Full Stack Developer (in progress)",
@@ -48,8 +45,6 @@ const nader = {
 - 💬 Ask me about **JavaScript, web development, or project ideas**
 - 🎯 2026 goal: **ship 3 production-ready full stack projects**
 - 📫 Reach me at **[nderdweik@gmail.com](mailto:nderdweik@gmail.com)**
-
-<br clear="right"/>
 
 ---
 
