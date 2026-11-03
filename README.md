@@ -1,4 +1,10 @@
 <!-- ===================== HEADER ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="naderdweik's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:0E75B6&height=180&section=header&text=Nader%20Dweik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20in%20the%20making&descAlignY=52&descSize=18" width="100%" alt="header" />
